@@ -1,0 +1,37 @@
+:root {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #000000;
+background-color: rgb(255, 255, 255);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 55px;
+  width: 98%;
+  max-width: 900px;
+  color: #000000;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: middle;
+  /* border-top: 1px solid #333;
+  border-bottom: 1px solid #333; */
+  margin-top: 140px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+h1 span {
+  color: #665240;
+}
+
+/* @media (max-width: 800px) {
+  #svg-container {
+    height: 820px;
+  }
+} */
