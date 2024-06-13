@@ -1,0 +1,188 @@
+geo,country,year,consumption,production,population,region
+afg,Afghanistan,2022,0.33135796,4022474,41128771,asia
+alb,Albania,2022,3.3,4022474,2842321,europe
+dza,Algeria,2022,1.27,0,44903225,africa
+ago,Angola,2022,0.98000014,0,35588987,africa
+atg,Antigua and Barbuda,2022,0.859917,0,93763,americas
+arg,Argentina,2022,128999.97,0,45510318,americas
+arm,Armenia,2022,2.3799992,0,2780469,europe
+aus,Australia,2022,2.7799995,0,26177413,asia
+aut,Austria,2022,1.1699991,0,8939617,europe
+aze,Azerbaijan,2022,1.4699998,0,10358074,europe
+bhs,Bahamas,2022,0.7399819,0,409984,americas
+bhr,Bahrain,2022,3.990011,0,1472233,asia
+bgd,Bangladesh,2022,0.040000003,0,171186372,asia
+brb,Barbados,2022,1.3499808,0,281635,americas
+blr,Belarus,2022,2.6099994,0,9534954,europe
+bel,Belgium,2022,0.16000006,0,11655930,europe
+blz,Belize,2022,1.3299768,17400,405272,americas
+ben,Benin,2022,0.029999997,0,13352864,africa
+btn,Bhutan,2022,0.08999884,0,782455,asia
+bol,Bolivia,2022,1.1899996,588399,12224110,americas
+bih,Bosnia and Herzegovina,2022,3.2999918,0,3233526,europe
+bwa,Botswana,2022,0.38999936,0,2630296,africa
+bra,Brazil,2022,1.37,3021260,215313498,americas
+brn,Brunei,2022,2.5500023,0,449002,asia
+bgr,Bulgaria,2022,0.029999984,0,6781953,europe
+bfa,Burkina Faso,2022,0,0,22673762,africa
+bdi,Burundi,2022,0,0,12889576,africa
+khm,Cambodia,2022,0,0,16767842,asia
+cmr,Cameroon,2022,0.45999998,2950000,27914536,africa
+can,Canada,2022,2.61,0,38454327,americas
+cpv,Cape Verde,2022,4.299883,0,593149,africa
+caf,Central African Republic,2022,4.5,766793.9,5579144,africa
+tcd,Chad,2022,0.029999916,13555,17723315,africa
+chl,Chile,2022,2.7,509241.2,19603733,americas
+chn,China,2022,1.12,0,1425887337,asia
+col,Colombia,2022,0.29999992,0,51874024,americas
+com,Comoros,2022,2.0700004,0,836774,africa
+cod,"Congo, Dem. Rep.",2022,0.13,0,99010212,africa
+cog,"Congo, Rep.",2022,0.15,0,5970424,africa
+cri,Costa Rica,2022,0.9,65164,5180829,americas
+civ,Cote d'Ivoire,2022,0.37999907,42.62,28160542,africa
+hrv,Croatia,2022,2.5799983,16000,4030358,europe
+cub,Cuba,2022,0.95000017,800,11212191,americas
+cyp,Cyprus,2022,6.41,2228459,1251488,europe
+cze,Czech Republic,2022,2.5200005,0,10493986,europe
+dnk,Denmark,2022,3.9399962,0,5882261,europe
+dji,Djibouti,2022,2.5399938,0,1120849,africa
+dom,Dominican Republic,2022,8.7999976,70630.86,11228821,americas
+ecu,Ecuador,2022,0,302093.9,18001000,americas
+egy,Egypt,2022,3.9399962,0,110990103,africa
+slv,El Salvador,2022,0.6300005,389.87,6336392,americas
+gnq,Equatorial Guinea,2022,0,302093.9,1674908,africa
+eri,Eritrea,2022,0,0,3684032,africa
+est,Estonia,2022,1.299996,174.73,1326062,europe
+eth,Ethiopia,2022,0.04,61042.62,123379924,africa
+fji,Fiji,2022,0.26,0,929766,asia
+fin,Finland,2022,1.28,0,5540745,europe
+fra,France,2022,4.6199994,0,64626628,europe
+gab,Gabon,2022,0.57,0,2388992,africa
+gmb,Gambia,2022,0.6300005,389870,2705992,africa
+geo,Georgia,2022,3.7699885,0,3744385,europe
+deu,Germany,2022,0.26999933,0,83369843,europe
+gha,Ghana,2022,0.05999999,10473850,33475870,africa
+grc,Greece,2022,2.0204682,0,10384971,europe
+grd,Grenada,2022,2.02,0,125438,americas
+gtm,Guatemala,2022,1.0599997,1164035,17843908,americas
+gin,Guinea,2022,2.15,0,13859341,africa
+gnb,Guinea-Bissau,2022,1.3599983,48032,2105566,africa
+guy,Guyana,2022,19999.993,200000,808726,americas
+hti,Haiti,2022,2.2949111,15793.201,11584996,americas
+hnd,Honduras,2022,0.42000014,100000,10432860,americas
+hkg,"Hong Kong, China",2022,2.15,0,7488865,asia
+hun,Hungary,2022,2.6100016,0,9967308,europe
+isl,Iceland,2022,5.379884,0,372899,europe
+ind,India,2022,0.08,270000,1417173173,asia
+idn,Indonesia,2022,2.11,6882100,275501339,asia
+irn,Iran,2022,2.559998,0,88550570,asia
+irq,Iraq,2022,0.72906154,0,44496122,asia
+irl,Ireland,2022,5.2000046,0,5023109,europe
+isr,Israel,2022,4.3400016,0,9038309,asia
+ita,Italy,2022,1.4399998,0,59037474,europe
+jam,Jamaica,2022,0.3599999,311000,2827377,americas
+jpn,Japan,2022,1.34,0,123951692,asia
+jor,Jordan,2022,1.1199992,0,11285869,asia
+kaz,Kazakhstan,2022,2.3700001,0,19397998,asia
+ken,Kenya,2022,0.07999999,0,54027487,africa
+kir,Kiribati,2022,0.07999193,0,131232,asia
+kwt,Kuwait,2022,2.4499993,0,4268873,asia
+kgz,Kyrgyz Republic,2022,1.2399997,0,6630623,asia
+lao,Lao,2022,0.27,0,7529475,asia
+lva,Latvia,2022,0,0,1850651,europe
+lbn,Lebanon,2022,3.5099888,0,5489739,asia
+lso,Lesotho,2022,0,0,2305825,africa
+lbr,Liberia,2022,1.4700011,0,5302681,africa
+lby,Libya,2022,0,0,6812341,africa
+ltu,Lithuania,2022,0,0,2750055,europe
+lux,Luxembourg,2022,2.01,0,647599,europe
+mkd,"Macedonia, FYR",2022,0.029999997,1200000,2093599,europe
+mdg,Madagascar,2022,0,0,29611714,africa
+mwi,Malawi,2022,0,53700,20405317,africa
+mys,Malaysia,2022,7,0,33938221,asia
+mdv,Maldives,2022,0,0,523787,asia
+mli,Mali,2022,3.2,0,22593590,africa
+mlt,Malta,2022,0,0,533286,europe
+mrt,Mauritania,2022,1,0,4736139,africa
+mus,Mauritius,2022,0,537000,1299469,africa
+mex,Mexico,2022,0,28105840,127504125,americas
+fsm,"Micronesia, Fed. Sts.",2022,0,314600,114164,asia
+mda,Moldova,2022,3,0,3272996,europe
+mng,Mongolia,2022,1,0,3398366,asia
+mne,Montenegro,2022,0,0,627082,europe
+mar,Morocco,2022,3,0,37457971,africa
+moz,Mozambique,2022,1,0,32969518,africa
+mmr,Myanmar,2022,1,0,54179306,asia
+nam,Namibia,2022,1,0,2567012,africa
+npl,Nepal,2022,6.2,0,30547580,asia
+nld,Netherlands,2022,0,0,17564014,europe
+nzl,New Zealand,2022,6.8,0,5185288,asia
+nic,Nicaragua,2022,7,0,6948392,americas
+ner,Niger,2022,1,0,26207977,africa
+nga,Nigeria,2022,0,0,218541212,africa
+prk,North Korea,2022,0,0,26069416,asia
+nor,Norway,2022,5,0,5434319,europe
+omn,Oman,2022,0,0,4576298,asia
+pak,Pakistan,2022,1,0,235824862,asia
+pse,Palestine,2022,0,0,5250072,asia
+pan,Panama,2022,0,0,4408581,americas
+png,Papua New Guinea,2022,0,4190000,10142619,asia
+pry,Paraguay,2022,0,0,6780744,americas
+per,Peru,2022,2,16052155,34049588,americas
+phl,Philippines,2022,3,100007,115559009,asia
+pol,Poland,2022,0,0,39857145,europe
+prt,Portugal,2022,0,0,10270865,europe
+qat,Qatar,2022,6,0,2695122,asia
+rou,Romania,2022,0,0,19659267,europe
+rus,Russia,2022,4,0,144713314,europe
+rwa,Rwanda,2022,0,4806100,13776698,africa
+wsm,Samoa,2022,3,3000000,222382,asia
+stp,Sao Tome and Principe,2022,2,0,227380,africa
+sau,Saudi Arabia,2022,3,0,36408820,asia
+sen,Senegal,2022,0,0,17316449,africa
+srb,Serbia,2022,1,0,7221365,europe
+syc,Seychelles,2022,1,0,107118,africa
+sle,Sierra Leone,2022,0,0,8605718,africa
+sgp,Singapore,2022,6,0,5975689,asia
+svk,Slovak Republic,2022,2,0,5643453,europe
+svn,Slovenia,2022,3,0,2119844,europe
+slb,Solomon Islands,2022,2,5000,724273,asia
+som,Somalia,2022,6,0,17597511,africa
+zaf,South Africa,2022,3,0,59893885,africa
+kor,South Korea,2022,6,0,51815810,asia
+ssd,South Sudan,2022,0,0,10913164,africa
+esp,Spain,2022,0,0,47558630,europe
+lka,Sri Lanka,2022,0,0,21832143,asia
+lca,St. Lucia,2022,0,3300,179857,americas
+vct,St. Vincent and the Grenadines,2022,2,22953,103948,americas
+sdn,Sudan,2022,2,4806100,46874204,africa
+sur,Suriname,2022,2,3000000,618040,americas
+swz,Swaziland,2022,2,0,1201670,africa
+swe,Sweden,2022,0,0,10549347,europe
+che,Switzerland,2022,5,0,8740472,europe
+syr,Syria,2022,0,0,22125249,asia
+twn,Taiwan,2022,0,1500000,238933940,asia
+tjk,Tajikistan,2022,1,1400000,99527870,asia
+tza,Tanzania,2022,2,12388000,654977480,africa
+tha,Thailand,2022,0,1000000,716970300,asia
+tls,Timor-Leste,2022,1,500000,1341296,asia
+tgo,Togo,2022,0,0,8848699,africa
+ton,Tonga,2022,1,0,106858,asia
+tto,Trinidad and Tobago,2022,4,0,1531044,americas
+tun,Tunisia,2022,7,0,12356117,africa
+tur,Turkey,2022,0,0,85341241,europe
+tkm,Turkmenistan,2022,2,0,6430770,asia
+uga,Uganda,2022,1,3500000,472495850,africa
+ukr,Ukraine,2022,0,0,39701739,europe
+are,United Arab Emirates,2022,2,0,9441129,asia
+gbr,United Kingdom,2022,3,0,67508936,europe
+usa,United States,2022,1,9920220,3382898570,americas
+ury,Uruguay,2022,0,0,3422794,americas
+uzb,Uzbekistan,2022,3,459,34627652,asia
+vut,Vanuatu,2022,6,148500,326740,asia
+ven,Venezuela,2022,7,2814425,283016960,americas
+vnm,Vietnam,2022,4,200000,98186856,asia
+yem,Yemen,2022,2,0,33696614,asia
+zmb,Zambia,2022,1,0,20017675,africa
+zwe,Zimbabwe,2022,0,1400000,163205370,africa
+,,,0,,,
